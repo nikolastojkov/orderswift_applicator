@@ -1,1 +1,0 @@
-# orderswift_applicator
